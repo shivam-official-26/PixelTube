@@ -1,0 +1,16 @@
+{
+  "name": "pixeltube",
+  "version": "1.0.0",
+  "description": "A fullstack app for video streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "react"
+  ],
+  "author": "Shivam Verma",
+  "license": "ISC"
+}
